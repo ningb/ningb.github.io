@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ningb/ningb.github.io/categories/</loc>
+    <loc>ningb.github.io/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/tags/css/</loc>
+    <loc>ningb.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/tags/html/</loc>
+    <loc>ningb.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/</loc>
+    <loc>ningb.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/tags/markdown/</loc>
+    <loc>ningb.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/posts/markdown-syntax-guide/</loc>
+    <loc>ningb.github.io/posts/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/posts/</loc>
+    <loc>ningb.github.io/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/categories/syntax/</loc>
+    <loc>ningb.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/tags/</loc>
+    <loc>ningb.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/categories/themes/</loc>
+    <loc>ningb.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/posts/placeholder-text/</loc>
+    <loc>ningb.github.io/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/tags/text/</loc>
+    <loc>ningb.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/posts/math-typesetting/</loc>
+    <loc>ningb.github.io/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/tags/emoji/</loc>
+    <loc>ningb.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/posts/emoji-support/</loc>
+    <loc>ningb.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/ningb/ningb.github.io/about/</loc>
+    <loc>ningb.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

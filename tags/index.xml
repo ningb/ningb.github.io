@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo</title>
-    <link>https://github.com/ningb/ningb.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo</description>
+    <title>Tags on Boting Ning Personal Site</title>
+    <link>ningb.github.io/tags/</link>
+    <description>Recent content in Tags on Boting Ning Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/ningb/ningb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="ningb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://github.com/ningb/ningb.github.io/tags/css/</link>
+      <link>ningb.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ningb/ningb.github.io/tags/css/</guid>
+      <guid>ningb.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://github.com/ningb/ningb.github.io/tags/html/</link>
+      <link>ningb.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ningb/ningb.github.io/tags/html/</guid>
+      <guid>ningb.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://github.com/ningb/ningb.github.io/tags/markdown/</link>
+      <link>ningb.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ningb/ningb.github.io/tags/markdown/</guid>
+      <guid>ningb.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://github.com/ningb/ningb.github.io/tags/text/</link>
+      <link>ningb.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ningb/ningb.github.io/tags/text/</guid>
+      <guid>ningb.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://github.com/ningb/ningb.github.io/tags/emoji/</link>
+      <link>ningb.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ningb/ningb.github.io/tags/emoji/</guid>
+      <guid>ningb.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
