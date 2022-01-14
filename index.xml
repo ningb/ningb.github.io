@@ -7,16 +7,16 @@
     <description>Boting Ning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ningb.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ningb.github.io/media/icon_hud6ba96925a0ba4915c60816d66eb508d_21526_512x512_fill_lanczos_center_3.png</url>
       <title>Boting Ning</title>
       <link>https://ningb.github.io/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://ningb.github.io/courses/example/python/</link>
+      <link>https://ningb.github.io/software/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/courses/example/python/</guid>
+      <guid>https://ningb.github.io/software/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://ningb.github.io/courses/example/visualization/</link>
+      <link>https://ningb.github.io/software/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/courses/example/visualization/</guid>
+      <guid>https://ningb.github.io/software/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://ningb.github.io/courses/example/stats/</link>
+      <link>https://ningb.github.io/software/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/courses/example/stats/</guid>
+      <guid>https://ningb.github.io/software/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -185,6 +185,51 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>DReAmiR</title>
+      <link>https://ningb.github.io/software/dreamir/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/software/dreamir/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /software/dreamir/featured_hu9577bfb99acf16d28864c00a93fc5d54_127351_4094c8a564ef99f31643a2fd067b1267.webp 400w,
+               /software/dreamir/featured_hu9577bfb99acf16d28864c00a93fc5d54_127351_4df50d159d86c37b3d46ce668a716511.webp 760w,
+               /software/dreamir/featured_hu9577bfb99acf16d28864c00a93fc5d54_127351_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ningb.github.io/software/dreamir/featured_hu9577bfb99acf16d28864c00a93fc5d54_127351_4094c8a564ef99f31643a2fd067b1267.webp&#34;
+               width=&#34;676&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#abstract&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Rewiring of transcriptional regulatory networks has been implicated in many biological and pathological processes. However, most current methods for detecting rewiring events (differential network connectivity) are not optimized for miRNA-mediated gene regulation and fail to systematically examine predicted target genes in study designs with multiple groups. We developed a novel method to address the current challenges. The &lt;strong&gt;D&lt;/strong&gt;ifferential &lt;strong&gt;Re&lt;/strong&gt;gulation &lt;strong&gt;A&lt;/strong&gt;nalysis for &lt;strong&gt;miR&lt;/strong&gt;NAs (&lt;code&gt;DReAmiR&lt;/code&gt;) method first estimates miRNA-gene expression correlations with Spatial Quantile Normalization to remove the mean-correlation relationship. Then, for each miRNA, genes are ranked by their correlation strength per group. Enrichment patterns of predicted target genes are compared using the Anderson-Darling test and significance levels are estimated via permutation. Finally, graph embedding or difference in enrichment score maximization is performed to prioritize group-specific target genes.&lt;/p&gt;
+&lt;p&gt;The R package &lt;code&gt;DReAmiR&lt;/code&gt; can be installed from &lt;a href=&#34;https://github.com/ningb/DReAmiR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://ningb.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -212,7 +257,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-418935276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-531724869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -222,7 +267,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-418935276&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-531724869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
