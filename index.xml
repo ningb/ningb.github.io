@@ -128,6 +128,86 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Regulatory landscapes of specific miRNAs are conserved between cell lines and primary tumors</title>
+      <link>https://ningb.github.io/publication/zhuh_f1000_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/zhuh_f1000_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/gorskim_kidint_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/gorskim_kidint_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/hicksberthet_cellrep_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/hicksberthet_cellrep_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/limy_transpsyc_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/limy_transpsyc_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/ningb_plosone_2015/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/ningb_plosone_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/piersrj_jad_2017/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/piersrj_jad_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/teumera_natcomm_2019/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/teumera_natcomm_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/tina_natgen_2019/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/tina_natgen_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/wuttkem_natgen_2019/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/wuttkem_natgen_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
+      <link>https://ningb.github.io/publication/xuk_medrxiv_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/xuk_medrxiv_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://ningb.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -308,7 +388,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-978146523&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-458697312&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -318,7 +398,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-978146523&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-458697312&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -545,20 +625,6 @@ You found me!
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://ningb.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://ningb.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -773,41 +839,11 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://ningb.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://ningb.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Dpb11 Protein Helps Control Assembly of the Cdc45·Mcm2-7·GINS Replication Fork Helicase</title>
+      <link>https://ningb.github.io/publication/dhingran_jbc_2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/dhingran_jbc_2015/</guid>
+      <description></description>
     </item>
     
     <item>

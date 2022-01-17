@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Boting Ning</title>
-    <link>https://ningb.github.io/publication/</link>
-      <atom:link href="https://ningb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Berthet JH, Ning B, ..., Lenburg ME, Beane JE, Monti S and Veralas X | Boting Ning</title>
+    <link>https://ningb.github.io/author/berthet-jh-ning-b-...-lenburg-me-beane-je-monti-s-and-veralas-x/</link>
+      <atom:link href="https://ningb.github.io/author/berthet-jh-ning-b-...-lenburg-me-beane-je-monti-s-and-veralas-x/index.xml" rel="self" type="application/rss+xml" />
+    <description>Berthet JH, Ning B, ..., Lenburg ME, Beane JE, Monti S and Veralas X</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ningb.github.io/media/icon_hud6ba96925a0ba4915c60816d66eb508d_21526_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://ningb.github.io/publication/</link>
+      <title>Berthet JH, Ning B, ..., Lenburg ME, Beane JE, Monti S and Veralas X</title>
+      <link>https://ningb.github.io/author/berthet-jh-ning-b-...-lenburg-me-beane-je-monti-s-and-veralas-x/</link>
     </image>
-    
-    <item>
-      <title>Regulatory landscapes of specific miRNAs are conserved between cell lines and primary tumors</title>
-      <link>https://ningb.github.io/publication/zhuh_f1000_2021/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/publication/zhuh_f1000_2021/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
@@ -89,14 +81,6 @@
       <link>https://ningb.github.io/publication/xuk_medrxiv_2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ningb.github.io/publication/xuk_medrxiv_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dpb11 Protein Helps Control Assembly of the Cdc45·Mcm2-7·GINS Replication Fork Helicase</title>
-      <link>https://ningb.github.io/publication/dhingran_jbc_2015/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/publication/dhingran_jbc_2015/</guid>
       <description></description>
     </item>
     
