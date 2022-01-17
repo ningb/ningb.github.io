@@ -169,14 +169,6 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
-      <link>https://ningb.github.io/publication/piersrj_jad_2017/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ningb.github.io/publication/piersrj_jad_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yap/Taz inhibit goblet cell fate to maintain lung epithelial homeostasis</title>
       <link>https://ningb.github.io/publication/teumera_natcomm_2019/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ningb.github.io/publication/teumera_natcomm_2019/</guid>
@@ -388,7 +380,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-458697312&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-834127695&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -398,7 +390,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-458697312&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-834127695&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -815,6 +807,14 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Age and graphomotor decision making assessed with the digital clock drawing test: the Framingham Heart Study</title>
+      <link>https://ningb.github.io/publication/piersrj_jad_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/publication/piersrj_jad_2017/</guid>
+      <description></description>
     </item>
     
     <item>
