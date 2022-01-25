@@ -5,12 +5,38 @@
     <link>https://ningb.github.io/software/</link>
       <atom:link href="https://ningb.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ningb.github.io/media/icon_hud6ba96925a0ba4915c60816d66eb508d_21526_512x512_fill_lanczos_center_3.png</url>
       <title>Software</title>
       <link>https://ningb.github.io/software/</link>
     </image>
+    
+    <item>
+      <title>TABLEONE</title>
+      <link>https://ningb.github.io/software/tableone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/software/tableone/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#abstract&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An R package for generating table 1 on study sample.&lt;/p&gt;
+&lt;p&gt;Major highlights include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Main variable could be variable format: continuous, binary or categorical (&amp;gt;2 levels).&lt;/li&gt;
+&lt;li&gt;Perform statistical test depending on variable class: correlation/two-group t-test/ANOVA&lt;/li&gt;
+&lt;li&gt;Output resulted table in both pdf and excel format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The R package &lt;code&gt;TABLEONE&lt;/code&gt; can be installed from &lt;a href=&#34;https://github.com/ningb/TABLEONE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DReAmiR</title>

@@ -73,6 +73,32 @@
     </item>
     
     <item>
+      <title>TABLEONE</title>
+      <link>https://ningb.github.io/software/tableone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ningb.github.io/software/tableone/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#abstract&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An R package for generating table 1 on study sample.&lt;/p&gt;
+&lt;p&gt;Major highlights include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Main variable could be variable format: continuous, binary or categorical (&amp;gt;2 levels).&lt;/li&gt;
+&lt;li&gt;Perform statistical test depending on variable class: correlation/two-group t-test/ANOVA&lt;/li&gt;
+&lt;li&gt;Output resulted table in both pdf and excel format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The R package &lt;code&gt;TABLEONE&lt;/code&gt; can be installed from &lt;a href=&#34;https://github.com/ningb/TABLEONE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://ningb.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -261,7 +287,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-371624985&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731524698&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -271,7 +297,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-371624985&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731524698&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
